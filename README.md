@@ -1,1 +1,2 @@
-# -first-github-repository
+# github配置
+只希望不要再出现类似网络之类的问题了，git能够好好跑，github能够好好跑，就足够了。
